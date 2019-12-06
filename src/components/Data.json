@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"nguyen",
+        "tel":"90787876",
+        "permission":"1"
+    },
+    {
+        "id":2,
+        "name":"huy",
+        "tel":"90787876",
+        "permission":"2"
+    },
+    {
+        "id":3,
+        "name":"huynh",
+        "tel":"90787876",
+        "permission":"3"
+    },
+    {
+        "id":4,
+        "name":"hoangnam1",
+        "tel":"90787876",
+        "permission":"4"
+    }
+]
